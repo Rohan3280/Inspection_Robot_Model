@@ -51,8 +51,7 @@ Developed by Rahul Narendra Sharma | CIRD Summer Training 2025
 
 ## Architecture Diagram
 
-![Architecture Diagram](images/architecture_diagram.png)
-
+![Demo Output](/working_images/SS.png)
 ---
 
 ## Face Recognition
