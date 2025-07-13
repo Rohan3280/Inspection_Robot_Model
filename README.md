@@ -111,16 +111,7 @@ Developed by Rahul Narendra Sharma | CIRD Summer Training 2025
 
 ## Logic Flow Diagram
 
-```mermaid
-graph TD;
-    A[Jetson Nano Stream] --> B[Face Detection (YOLOv8)]
-    A --> C[Helmet Detection]
-    A --> D[Activity Recognition]
-    B --> E[Face Matching (InsightFace)]
-    C --> E
-    D --> E
-    E --> F[Flask LAN Stream]
-```
+![Demo Output](/working_images/mermaid.png)
 
 ---
 
